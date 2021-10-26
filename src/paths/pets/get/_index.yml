@@ -1,0 +1,6 @@
+summary: Info for a specific pet
+operationId: showPetById
+tags:
+  - pets
+responses:
+  $ref: "responses.yml"

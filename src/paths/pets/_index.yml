@@ -1,0 +1,4 @@
+get:
+  $ref: 'get/_index.yml'
+post:
+  $ref: 'post/_index.yml'

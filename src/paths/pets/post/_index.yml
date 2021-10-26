@@ -1,0 +1,6 @@
+summary: Create a pet
+operationId: createPets
+tags:
+  - pets
+responses:
+  $ref: "responses.yml"
